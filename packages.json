@@ -1,0 +1,39 @@
+{
+    "packages": [
+        {
+            "$schema": "https://go.kicad.org/pcm/schemas/v1",
+            "name": "KiCAD KLE placer",
+            "description": "A KLE auto-placer for KiCAD",
+            "description_full": "This plugin allows you to automatically place footprints for your mechanical keyboards using KLE",
+            "identifier": "com.github.zykrah.kicad-kle-placer",
+            "type": "plugin",
+            "author": {
+                "name": "zykrah",
+                "contact": {
+                    "github": "zykrah"
+                }
+            },
+            "maintainer": {
+                "name": "zykrah",
+                "contact": {
+                    "github": "zykrah"
+                }
+            },
+            "license": "MIT",
+            "resources": {
+                "homepage": "https://github.com/zykrah/kicad-kle-placer"
+            },
+            "versions": [
+                {
+                    "version": "2023.02.13",
+                    "status": "testing",
+                    "kicad_version": "7.0",
+                    "download_sha256": "9df10d56c570a3f676866262b4948e24714429f2472c7c7ff7c22c0511406e17",
+                    "download_size": 11942,
+                    "download_url": "https://github.com/zykrah/kicad-kle-placer/releases/download/2023.02.13/KiCAD-PCM-2023.02.13.zip",
+                    "install_size": 42226
+                }
+            ]
+        }
+    ]
+}

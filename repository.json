@@ -1,0 +1,16 @@
+{
+    "$schema": "https://gitlab.com/kicad/code/kicad/-/raw/master/kicad/pcm/schemas/pcm.v1.schema.json#/definitions/Repository",
+    "maintainer": {
+        "contact": {
+            "github": "zykrah"
+        },
+        "name": "zykrah"
+    },
+    "name": "Zykrah's KiCad repository",
+    "packages": {
+        "sha256": "d13b949b7ff6aafbebaeacd91d21ae018c6444d7b1ec4ba67ff10cab8cec94bc",
+        "update_time_utc": "2023-02-13 12:04:03",
+        "update_timestamp": 1676289843,
+        "url": "https://raw.githubusercontent.com/zykrah/zykrah-kicad-repository/main/packages.json"
+    }
+}
