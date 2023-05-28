@@ -8,9 +8,9 @@
     },
     "name": "Zykrah's KiCad repository",
     "packages": {
-        "sha256": "f081e4591cc4cfa09ca80b29a66fe7c9ebdaa2520fe2832620f9f673dff015ca",
-        "update_time_utc": "2023-02-13 12:31:00",
-        "update_timestamp": 1676291460,
+        "sha256": "e2e07a641133ebc86cdd5a84672e93e19a09d36320033e38b8f2932e55022f2c",
+        "update_time_utc": "2023-05-28 03:31:05",
+        "update_timestamp": 1685244665,
         "url": "https://raw.githubusercontent.com/zykrah/zykrah-kicad-repository/main/packages.json"
     }
 }

@@ -32,6 +32,15 @@
                     "download_size": 11939,
                     "download_url": "https://github.com/zykrah/kicad-kle-placer/releases/download/2023.02.14/KiCAD-PCM-2023.02.14.zip",
                     "install_size": 42223
+                },
+                {
+                    "version": "2023.05.28",
+                    "status": "testing",
+                    "kicad_version": "7.0",
+                    "download_sha256": "86ec9a65f7109d5101870322845032fbbe85a9eee7f8cacd7cb24ae8272fb7ef",
+                    "download_size": 11944,
+                    "download_url": "https://github.com/zykrah/kicad-kle-placer/releases/download/2023.05.28/KiCAD-PCM-2023.05.28.zip",
+                    "install_size": 42261
                 }
             ]
         }
